@@ -78,7 +78,7 @@ plugins:
 model:
   # Default model to use (can be overridden with --model flag)
   # Both "default" and "model" work as the key name here.
-  default: "deepseek-v4.1-flash-abliterated-2"
+  default: "deepseek-v4.1-flash-bansos"
 
   # Inference provider selection:
   #   "auto"         - Auto-detect from credentials (default)
